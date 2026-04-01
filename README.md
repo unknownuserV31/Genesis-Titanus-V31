@@ -1,5 +1,3 @@
-# Genesis-Titanus-V31
-A theoretical roadmap for a zero-failure biological platform using graphene-sintering and thermoelectric recovery
 # Project: Genesis Titanus (V31)
 **Status:** Open Source / Public Domain  
 **Classification:** Advanced Synthetic Biology & Material Science Framework  
