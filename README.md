@@ -51,3 +51,5 @@ This project is released under the **Titan-Open-Logic License (TOL-1.0)**.
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)
 
+## 📜 License
+Genesis Titanus is open-source under a **Multi-Domain Umbrella License** (TOL-1.0 / Apache 2.0 / MIT / CC BY-SA 4.0). See the [LICENSE](./LICENSE) file for full details.
