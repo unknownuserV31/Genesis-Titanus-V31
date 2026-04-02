@@ -44,4 +44,7 @@ This project is released under the **Titan-Open-Logic License (TOL-1.0)**.
 ---
 *Created by [REDACTED] & ATLAS*
 
-[Click here to read the Full Technical Specifications](./V31_FULL_SPECS.md)
+---
+## 📖 NAVIGATION
+**[NEXT: V31 FULL SPECIFICATIONS →](./V31_FULL_SPECS.md)**
+
