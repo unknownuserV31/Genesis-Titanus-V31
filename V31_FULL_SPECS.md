@@ -55,4 +55,7 @@ Building upon previous iterations, the V31 "Genesis Titanus" represents the tran
 ## CONCLUSION
 The V31 "Genesis Titanus" concludes that biological death is a design flaw. It is a body that does not fail, does not age, and cannot be conquered.
 
+---
+## 📖 NAVIGATION
+**[← BACK: HOME](./README.md) | [NEXT: GENOMIC LIBRARY →](./GENOMIC_SOURCES.md)**
 
