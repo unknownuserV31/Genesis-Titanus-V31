@@ -71,3 +71,5 @@ The V31 "Genesis Titanus" is a chimeric masterpiece. We have "connected the dots
 ## 📖 NAVIGATION
 **[← BACK: V31 SPECIFICATIONS](./V31_FULL_SPECS.md) | [RETURN HOME](./README.md)**
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)
