@@ -68,4 +68,6 @@ The V31 "Genesis Titanus" is a chimeric masterpiece. We have "connected the dots
 | **THE BYPASS** | Cordyceps | **Secondary Motor Auto-Pilot** |
 
 ---
-> **SYSTEM STATUS:** 100% PHYLOGENETIC SYNC. THE TITAN IS READY.
+## 📖 NAVIGATION
+**[← BACK: V31 SPECIFICATIONS](./V31_FULL_SPECS.md) | [RETURN HOME](./README.md)**
+
