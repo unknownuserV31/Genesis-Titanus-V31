@@ -44,9 +44,11 @@ This project is released under the **Titan-Open-Logic License (TOL-1.0)**.
 ---
 *Created by [REDACTED] & ATLAS*
 
+## 📜 License
+Genesis Titanus is open-source under a **Multi-Domain Umbrella License** (TOL-1.0 / Apache 2.0 / MIT / CC BY-SA 4.0). See the [LICENSE](./LICENSE) file for full details.
+
 ---
 ## 📖 NAVIGATION
 **[NEXT: V31 FULL SPECIFICATIONS →](./V31_FULL_SPECS.md)**
 
-## 📜 License
-Genesis Titanus is open-source under a **Multi-Domain Umbrella License** (TOL-1.0 / Apache 2.0 / MIT / CC BY-SA 4.0). See the [LICENSE](./LICENSE) file for full details.
+
