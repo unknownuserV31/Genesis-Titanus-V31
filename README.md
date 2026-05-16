@@ -16,7 +16,7 @@ Select a component below to explore the expanded architecture and theoretical in
 *   **[Deployment Roadmap](./DEPLOYMENT_ROADMAP.md)** — Theoretical implementation phases, milestones, and testing timelines from material synthesis to full integration.
 *   **[Integration Vectors](./INTEGRATION_VECTORS.md)** — Methodologies for computational bio-simulations, thermodynamic flow analysis, and immune verification.
 *   **[Frequently Asked Questions](./FAQ.md)** — Technical reference guide addressing thermal tolerances, skeletal structures, and architectural logic.
-*   *   **[Visual Architecture](./VISUAL_ARCHITECTURE.md)** — ASCII diagrams mapping out the systemic cross-sections and genomic shielding layers.
+*   **[Visual Architecture](./VISUAL_ARCHITECTURE.md)** — ASCII diagrams mapping out the systemic cross-sections and genomic shielding layers.
 *   **[Ethical & Safety Framework](./ETHICS.md)** — Core biological containment parameters, nutrient gating, and non-aggression protocols.
 *   **[Comparison to Nature](./COMPARISON_TO_NATURE.md)** — Analytical breakdown contrasting V31 technical specifications against standard evolutionary limitations.
 
